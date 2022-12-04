@@ -8,6 +8,9 @@ The purpose of this project was to test my skills in online Corporate Test Envio
 🚀 About Me
 
 I am an aspirant QA Automation Enginee with having an about a year expreince working on various Self learnin Project and a Practice Project during the QA trainning with expertise using various Automation Frameworks.
+-
+## Environments and Tools
+Selenium WebDriver, Maven, TestNG, Postman, Playwright, Eclipse , Jira , Cucumber , Appium ,Xcode ,Anroid Studio,Jmeter
 
 🛠 Skills
 
