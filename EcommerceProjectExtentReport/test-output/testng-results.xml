@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-04T11:30:59 CST" name="Suite" finished-at="2022-12-04T11:33:20 CST" duration-ms="140990">
+    <groups>
+    </groups>
+    <test started-at="2022-12-04T11:30:59 CST" name="Test" finished-at="2022-12-04T11:33:20 CST" duration-ms="140990">
+      <class name="EcommerceProjectReport.EcommerceProjectExtentReport.Test7">
+        <test-method signature="TestCse7()[pri:0, instance:EcommerceProjectReport.EcommerceProjectExtentReport.Test7@1b75c2e3]" started-at="2022-12-04T11:32:23 CST" name="TestCse7" finished-at="2022-12-04T11:32:39 CST" duration-ms="15189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCse7 -->
+      </class> <!-- EcommerceProjectReport.EcommerceProjectExtentReport.Test7 -->
+      <class name="EcommerceProjectReport.EcommerceProjectExtentReport.Test6">
+        <test-method signature="TestCase6()[pri:0, instance:EcommerceProjectReport.EcommerceProjectExtentReport.Test6@1f53a5dc]" started-at="2022-12-04T11:31:58 CST" name="TestCase6" finished-at="2022-12-04T11:32:23 CST" duration-ms="25367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase6 -->
+      </class> <!-- EcommerceProjectReport.EcommerceProjectExtentReport.Test6 -->
+      <class name="EcommerceProjectReport.EcommerceProjectExtentReport.Test5">
+        <test-method signature="TestCase5()[pri:0, instance:EcommerceProjectReport.EcommerceProjectExtentReport.Test5@413f69cc]" started-at="2022-12-04T11:31:44 CST" name="TestCase5" finished-at="2022-12-04T11:31:58 CST" duration-ms="14257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase5 -->
+      </class> <!-- EcommerceProjectReport.EcommerceProjectExtentReport.Test5 -->
+      <class name="EcommerceProjectReport.EcommerceProjectExtentReport.Test4">
+        <test-method signature="TestCase4()[pri:0, instance:EcommerceProjectReport.EcommerceProjectExtentReport.Test4@7e5c856f]" started-at="2022-12-04T11:31:33 CST" name="TestCase4" finished-at="2022-12-04T11:31:44 CST" duration-ms="10818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase4 -->
+      </class> <!-- EcommerceProjectReport.EcommerceProjectExtentReport.Test4 -->
+      <class name="EcommerceProjectReport.EcommerceProjectExtentReport.Test3">
+        <test-method signature="TestCase3()[pri:0, instance:EcommerceProjectReport.EcommerceProjectExtentReport.Test3@12d2ce03]" started-at="2022-12-04T11:31:21 CST" name="TestCase3" finished-at="2022-12-04T11:31:33 CST" duration-ms="12414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase3 -->
+      </class> <!-- EcommerceProjectReport.EcommerceProjectExtentReport.Test3 -->
+      <class name="EcommerceProjectReport.EcommerceProjectExtentReport.Test2">
+        <test-method signature="TestCae2()[pri:0, instance:EcommerceProjectReport.EcommerceProjectExtentReport.Test2@7d446ed1]" started-at="2022-12-04T11:31:11 CST" name="TestCae2" finished-at="2022-12-04T11:31:21 CST" duration-ms="9461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCae2 -->
+      </class> <!-- EcommerceProjectReport.EcommerceProjectExtentReport.Test2 -->
+      <class name="EcommerceProjectReport.EcommerceProjectExtentReport.Test1">
+        <test-method signature="TestCse1()[pri:0, instance:EcommerceProjectReport.EcommerceProjectExtentReport.Test1@7922d892]" started-at="2022-12-04T11:30:59 CST" name="TestCse1" finished-at="2022-12-04T11:31:11 CST" duration-ms="12455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCse1 -->
+      </class> <!-- EcommerceProjectReport.EcommerceProjectExtentReport.Test1 -->
+      <class name="EcommerceProjectReport.EcommerceProjectExtentReport.Test9">
+        <test-method signature="TestCase9()[pri:0, instance:EcommerceProjectReport.EcommerceProjectExtentReport.Test9@c7ba306]" started-at="2022-12-04T11:33:07 CST" name="TestCase9" finished-at="2022-12-04T11:33:20 CST" duration-ms="12791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase9 -->
+      </class> <!-- EcommerceProjectReport.EcommerceProjectExtentReport.Test9 -->
+      <class name="EcommerceProjectReport.EcommerceProjectExtentReport.Test8">
+        <test-method signature="TestCse8()[pri:0, instance:EcommerceProjectReport.EcommerceProjectExtentReport.Test8@39ac0c0a]" started-at="2022-12-04T11:32:39 CST" name="TestCse8" finished-at="2022-12-04T11:33:07 CST" duration-ms="28131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCse8 -->
+      </class> <!-- EcommerceProjectReport.EcommerceProjectExtentReport.Test8 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
